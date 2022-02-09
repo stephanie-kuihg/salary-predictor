@@ -18,7 +18,7 @@ Companies will be able to set realistic hiring budgets if they are setting up ne
 This salary prediction model can be utilized by job portals and recruitment agencies to reconcile these two stakeholders. As the companies post up their job listings, the job seekers are able 
 
 ### Data Source
-The dataset used in this salary prediction model is scraped from Singapore job portal mycareersfuture.sg, and compromises of jobs in the data science industry including but not limited to roles such as data scientist, data analyst and data engineers. While this particular industry was selected as a form of personal research before embarking on my job hunt as a data scientist, it is merely a proof of concept, and can be easily tweaked to predict salaries from other industries.
+The dataset used in this salary prediction model is scraped from Singapore job portal mycareersfuture.sg, and comprises of jobs in the data science industry including but not limited to roles such as data scientist, data analyst and data engineers. While this particular industry was selected as a form of personal research before embarking on my job hunt as a data scientist, it is merely a proof of concept, and can be easily tweaked to predict salaries from other industries.
 
 ### Project Workflow
 
